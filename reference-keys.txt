@@ -7,7 +7,7 @@ international-experience
 skills
 it-skills
 languages
+info
 applications
 example-one
 example-two
-info
