@@ -4,6 +4,7 @@ cv
 professional-experience
 education
 international-experience
+voluntary-work
 skills
 it-skills
 languages

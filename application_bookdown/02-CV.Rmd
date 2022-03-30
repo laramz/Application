@@ -17,13 +17,13 @@
 ## International Experience
 
 
-![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/International.png){width=80%}
+![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/International.png){width=76%}
 
 
 
+## Voluntary Work
 
-
-
+![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Volunteer.png){width=76%}
 
 
 ## Skills 
