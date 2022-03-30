@@ -12,7 +12,7 @@
 ## Education
 
 
-![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Education.png){width=85%}
+![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Education.PNG){width=85%}
 
 ## International Experience
 
