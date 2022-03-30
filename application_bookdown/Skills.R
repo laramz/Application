@@ -1,0 +1,62 @@
+library(tidyverse)
+library(readxl)
+install.packages("ggthemes")
+library(ggthemes)
+# Read Excel File ---------------------------------------------------------
+
+
+skills= read_excel("/Users/larazaremba/Desktop/Skills.xlsx")
+
+language=skills %>% 
+  filter(Skills=="Language") %>% 
+  mutate(Type= fct_reorder(Type, Number))
+
+ggplot(language, aes(y=Type, x=Number))+
+  geom_col(fill="#f68060", alpha=.7, width=.5)+
+  theme_bw()+
+  xlab("")+
+  ylab("")+
+  xlim(0,7.5)+
+  theme( # remove the vertical grid lines
+    panel.grid.major.y = element_blank() ,
+    axis.text.x=element_blank(), #remove x axis labels
+    axis.ticks.x=element_blank(),
+    # explicitly set the horizontal lines (or they will disappear too)
+    panel.grid.major.x = element_line( size=.1, color="darkgrey" ),
+    panel.border = element_blank(),  
+    # Remove panel grid lines
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    # Remove panel background
+    panel.background = element_blank(),
+    # Add axis line
+    axis.line = element_line(colour = "grey")
+  )+
+  geom_text(aes(label = Level), color="grey28", vjust = 0.3, hjust=-0.8)
+
+it=skills %>% 
+  filter(Skills=="IT") %>% 
+  mutate(Type= fct_reorder(Type, Number))
+  
+  ggplot(it, aes(y=Type, x=Number))+
+  geom_col(fill="#f68060", alpha=.7, width=.5)+
+  theme_bw()+
+  xlab("")+
+  ylab("")+
+  xlim(0,5)+
+    theme( # remove the vertical grid lines
+      panel.grid.major.y = element_blank() ,
+      # explicitly set the horizontal lines (or they will disappear too)
+      panel.grid.major.x = element_line( size=.1, color="darkgrey" ) 
+    )+
+    theme(
+      # Remove panel border
+      panel.border = element_blank(),  
+      # Remove panel grid lines
+      panel.grid.major = element_blank(),
+      panel.grid.minor = element_blank(),
+      # Remove panel background
+      panel.background = element_blank(),
+      # Add axis line
+      axis.line = element_line(colour = "grey")
+    )
