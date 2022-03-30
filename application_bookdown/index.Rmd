@@ -1,6 +1,6 @@
 --- 
 title: "Application for the International Digital Development Traineeship in Digital Banking"
-date: "`r Sys.Date()`"
+date: ""
 output: 
   bookdown::gitbook:
     config:
