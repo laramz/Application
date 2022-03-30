@@ -103,6 +103,28 @@ ggplot(language, aes(y=Type, x=Number))+
 
 ```
 
+## Awards
+
+
+Student of the Year 2020 | TechAcademy |  
+Award of the German Association of University Professors and Lecturers
+<html>
+  <head>
+    <style>
+      hr {
+        width: 60%;
+      }
+    </style>
+  </head>
+  <body>
+    <hr />
+  </body>
+</html>
+
+2nd Place, Norbert-Walter-Förderpreis Competition 2020
+
+
+
 
 
 
