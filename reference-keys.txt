@@ -1,0 +1,14 @@
+welcome
+motivation
+cv
+professional-experience
+education
+international-experience
+voluntary-work
+skills
+it-skills
+languages
+info
+certificates
+work
+education-1

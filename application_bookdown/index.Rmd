@@ -1,0 +1,22 @@
+--- 
+title: "Application for the International Digital Development Traineeship in Digital Banking"
+date: "`r Sys.Date()`"
+output: 
+  bookdown::gitbook:
+    config:
+      fontsettings: null
+      sharing: null
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+
+# Welcome!
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mgXv3aE5eQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
