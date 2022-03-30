@@ -8,6 +8,6 @@ skills
 it-skills
 languages
 info
-applications
-example-one
-example-two
+certificates
+work
+education-1
