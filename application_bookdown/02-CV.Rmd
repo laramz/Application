@@ -4,7 +4,7 @@
 ## Professional Experience
 
 
-![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Experience.png){width=80%}
+![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Experience.png){width=85%}
 
 
 
@@ -12,18 +12,18 @@
 ## Education
 
 
-![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Education.png){width=80%}
+![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Education.png){width=85%}
 
 ## International Experience
 
 
-![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/International.png){width=76%}
+![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/International.png){width=82%}
 
 
 
 ## Voluntary Work
 
-![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Volunteer.png){width=76%}
+![](/Users/larazaremba/Documents/GitHub/Application/application_bookdown/_bookdown_files/Volunteer.png){width=82%}
 
 
 ## Skills 
