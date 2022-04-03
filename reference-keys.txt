@@ -9,7 +9,7 @@ skills
 it-skills
 languages
 awards
-info
 certificates
 work
 education-1
+info

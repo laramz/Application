@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Application - 01.04.2022</a></li>
       after: |
-        <li><a href="https://www.linkedin.com/in/lara-zaremba" target="blank">Lara Maria Zaremba</a></li>
+        <li><a href="https://www.linkedin.com/in/lara-zaremba" target="blank">Created by Lara Maria Zaremba</a></li>
     download: ["pdf"]
 bookdown::pdf_book:
   includes:

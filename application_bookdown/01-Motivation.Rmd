@@ -1,5 +1,13 @@
 # Motivation
 
 
+It was with great pleasure that I came across the *International Digital Development Graduate in Digital Banking* advertisement. This traineeship offers the ideal opportunity to expand my IT knowledge and pursue my interest in discovering and implementing new technologies. I value a diverse, fast-paced and innovative work environment, which I see fulfilled in Commerzbank's IT department. I believe that my skills and previous experience, as well as my enthusiasm for digital topics, make me a great fit for the program.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mgXv3aE5eQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I have already had various opportunities to apply and expand my digital skills in my master's studies as well as in professional activities and volunteer work. In my current traineeship at the ECB in Data Science, Technology and Innovation in HR, I work a lot with R, SAP and Tableau. Before that, I have already performed data analyses using R and Stata for the Chair of Finance and Economics at the Goethe University. I also gained further data science experience during my product management and data analytics internship at the insurtech company Thinksurance, where I used Tableau-based dashboards to develop measures for strategy and product development. My enthusiasm for programming also led me to volunteer for TechAcademy, a student coding initiative, as part of the product development team and as an R mentor.  
+
+Optimizing digital processes and developing and implementing new technologies really excites me. For example, during my Risk Consulting internship at PwC, I was able to identify improvement opportunities for some processes. As a result, I taught myself the necessary basics of programming with Java Script in order to use Google Apps Script to automate and thus simplify various workflows for my consulting team. These acquired skills also proved useful during my year abroad in India, during which I volunteered at a non-profit clinic. I was able to program a billing and inventory tool, which I then instructed the clinic staff on how to use.  
+
+With quick thinking and an analytical eye, I grasp complex concepts in a short amount of time - and can apply them directly in a solution-oriented manner. I approach new challenges systematically, conceptually and with great enthusiasm. I also enjoy working in a team. For collaboration, empathetic and open communication as well as humor and helpfulness are particularly important to me.  
+
+I am always looking to further develop my IT and data science skills and welcome any opportunity to do so. It would be an exciting challenge and a great learning opportunity for me to apply this enthusiasm and curiosity for discovering and implementing technologies and process improvements for the Commerzbank.
+

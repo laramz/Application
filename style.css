@@ -46,3 +46,52 @@ pre code {
   position: relative;
   z-index: 1;
 }
+
+
+.book .book-summary {
+  background: #FEC42C;
+  border-right: none;
+}
+
+.summary{
+font-family: 'Verdana', sans-serif;
+}
+
+
+.summary a:hover {
+  color: #1F737A !important;
+} 
+
+.book .book-summary ul.summary li.active>a { /*active TOC links*/
+  color: #1F737A !important;
+  border-left: solid 4px;
+  border-color: #1F737A;
+  padding-left: 11px !important;
+}  
+
+
+.title {
+    font-family: 'Verdana';
+    font-size: 19px;
+}
+
+.book .book-summary {
+  width: 260px;
+  position:absolute;
+  top:0;
+  left:-260px;
+}
+
+.book.with-summary .book-header.fixed {
+    left: 260px;
+}
+
+.book.with-summary .book-body {
+    left: 260px;
+}
+
+ .book.font-family-1 {
+  font-family: 'Verdana', sans-serif;
+ }
+ 
+

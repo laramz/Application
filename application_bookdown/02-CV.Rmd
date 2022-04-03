@@ -44,7 +44,7 @@ it=skills %>%
   mutate(Type= fct_reorder(Type, Number))
   
   ggplot(it, aes(y=Type, x=Number))+
-  geom_col(fill="#f68060", alpha=.7, width=.5)+
+  geom_col(fill="#FEC42C", alpha=.7, width=.5)+
   theme_bw()+
   xlab("")+
   ylab("")+
@@ -79,7 +79,7 @@ language=skills %>%
   mutate(Type= fct_reorder(Type, Number))
 
 ggplot(language, aes(y=Type, x=Number))+
-  geom_col(fill="#f68060", alpha=.7, width=.5)+
+  geom_col(fill="#FEC42C", alpha=.7, width=.5)+
   theme_bw()+
   xlab("")+
   ylab("")+
